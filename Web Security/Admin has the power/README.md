@@ -20,4 +20,4 @@ Administrators only has the power to see the flag , can you be one ?
 
     - Lets take a look at the cookies, Nice ! plain text, Now if we changed the role to admin instead of support the flag will pop up.
 
-- **Flag: hiadminyouhavethepower**
+> **Flag: hiadminyouhavethepower**
